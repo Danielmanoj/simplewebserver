@@ -44,4 +44,4 @@ httpd.serve_forever()
 ![OUTPUT](./image/manoj22003783.png)
 
 ## RESULT:
-Success
+The program for implementing simple web server is executed successfully
